@@ -1,1 +1,1 @@
-Майборода Максим ДР 2022
+Сайт агенств  нерухомості - https://property-news.herokuapp.com/
